@@ -1,0 +1,8 @@
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\obj\Debug\numeros_impares.net2.csproj.AssemblyReference.cache
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\obj\Debug\numeros_impares.net2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\obj\Debug\numeros_impares.net2.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\bin\Debug\numeros_impares.net2.exe.config
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\bin\Debug\numeros_impares.net2.exe
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\bin\Debug\numeros_impares.net2.pdb
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\obj\Debug\numeros_impares.net2.exe
+C:\Users\Brayan\Desktop\programacion\C# praticas\numeros_impares.net2\obj\Debug\numeros_impares.net2.pdb
